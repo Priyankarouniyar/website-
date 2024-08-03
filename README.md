@@ -1,2 +1,2 @@
-# website-
+# WEBSITE
 for college adminstration
